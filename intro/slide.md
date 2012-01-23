@@ -58,6 +58,7 @@
     
     @@@ Ruby
       class DeadlyLaserEyesBase
+
         def burn_that_mofo( name_of_mofo )
           puts "I shall burn you #{name_of_mofo}"
         end
@@ -70,18 +71,17 @@
 ## We need to pivot!
 [pic of xavier]
 
-!SLIDE 
+!SLIDE smaller
 #Super Hero Factory
 
-  @@@ Ruby
-    class CombinedPowerHero < DeadlyLaserEyes < FlyingBase
-    
-    end
+    @@@ Ruby
+      class CombinedPowerHero < DeadlyLaserEyes < FlyingBase
+      end
 
 !SLIDE
 # Super Hero Factory
 
-## [Insert new super hero pic]
+## [Insert new super hero pic failed super hero]
 
 
 

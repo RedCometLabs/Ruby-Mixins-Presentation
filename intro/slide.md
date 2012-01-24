@@ -8,18 +8,18 @@
 ### @garrensmith
 ### garren@redcometlabs.com
 
-!SLIDE
+!SLIDE center
 # Super Hero Factory
+![factory](factory.jpg)
 
-!SLIDE 
-# Super Hero Factory
+#### http://andreewallin.deviantart.com/art/Mecha-factory-97454256?q=boost%3Apopular%20factory&qo=4
 
-## Create flying ability
-
-!SLIDE 
-# Super Hero Factory
-
-## Creating Deadly laser eyes
+!SLIDE center
+# Create flying ability
+![fly](fly.jpg)
+!SLIDE center
+# Creating Deadly laser eyes
+![laser](laser.jpg)
 
 !SLIDE
 
@@ -65,11 +65,10 @@
        
       end
 
-!SLIDE 
-#Super Hero Factory
+!SLIDE center
 
 ## We need to pivot!
-[pic of xavier]
+![xavier](xavier.jpg)
 
 !SLIDE smaller
 #Super Hero Factory
@@ -78,10 +77,10 @@
       class CombinedPowerHero < DeadlyLaserEyes < FlyingBase
       end
 
-!SLIDE
+!SLIDE center
 # Super Hero Factory
+![failed](failed.jpg)
 
-## [Insert new super hero pic failed super hero]
 
 
 

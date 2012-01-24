@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE small 
 #Enumerable
 
     @@@ Ruby
@@ -54,7 +54,7 @@
         spacial_index :source
       end
 
-!SLIDE 
+!SLIDE small
 #CanCan
     
     @@@ Ruby
@@ -72,4 +72,37 @@
         
         end
       end
+
+!SLIDE bullets incremental small
+#Oh no javascript
+* Angus Croll
+* http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
+
+!SLIDE 
+#Oh no javascript
+## github/garrensmith/LazyBoy
+  
+!SLIDE small
+# Oh no javascript
+    @@@ javascript
+      var Flyable = function () {
+       
+        this.fly_now = function () {
+          console.log("I believe I can fly");
+        } 
+        
+      }
+
+!SLIDE small
+# Oh no javascript
+    @@@ javascript
+      var Person = function () {};
+
+      Flyable.call(Person.prototype);
+
+      var average_joe = new Person();
+
+      average_joe.fly_now();
+      #=> I believe I can fly
+      
 

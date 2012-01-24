@@ -1,12 +1,14 @@
 !SLIDE
 # Mixins to the rescue
 
-!SLIDE  bullets incremental
+!SLIDE 
 #What is a mixin?
 
-* Group of cohesive methods that can be used 
-* AND
-* 'mixed-in' with another class.
+!SLIDE 
+#What is a mixin?
+
+## Group of cohesive methods that are
+## 'mixed-in' with another class.
 
 !SLIDE bullets incremental
 

@@ -26,9 +26,11 @@
       xmen.first #=> Wolverine
       xmen.sort  #=> Gambit, Rogue, Storm, Wolverine
 
-!SLIDE
+!SLIDE center
 # Mixins in the wild
-[cool pic here]
+![xmen](xmen.jpg)
+
+#### http://browse.deviantart.com/?qh=&section=&q=xmen#/d24upst
 
 !SLIDE
 # Mongoid
@@ -73,7 +75,13 @@
         end
       end
 
-!SLIDE bullets incremental small
+!SLIDE center
+# Oh no javascript
+![joker](joker2.jpg)
+
+
+
+!SLIDE bullets small
 #Oh no javascript
 * Angus Croll
 * http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/

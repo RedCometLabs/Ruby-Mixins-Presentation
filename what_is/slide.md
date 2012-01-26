@@ -1,13 +1,14 @@
-!SLIDE
+!SLIDE center
 # Mixins to the rescue
+![superman_rescue](superman_rescue2.jpg)
+
+!SLIDE center
+#What is a mixin?
+![Norm_Lightyear](Norm_Lightyear.jpg)
 
 !SLIDE 
-#What is a mixin?
-
-!SLIDE 
-#What is a mixin?
-
-## Group of cohesive methods that are
+## A mixin is a
+## group of cohesive methods that are
 ## 'mixed-in' with another class.
 
 !SLIDE bullets incremental
@@ -21,10 +22,12 @@
 # Mixins
 ## has a or uses a
 * Spiderman has a "spider-sense"
+* Seperation of concerns
 
-!SLIDE bullets incremental
+!SLIDE center
 # How do we do this?
-* Ruby Modules
+![ironman](iron_man.jpg)
+#### http://kael360.deviantart.com/art/Ironman-100314344?q=boost%3Apopular%20ironman&qo=23
 
 !SLIDE bullets incremental
 

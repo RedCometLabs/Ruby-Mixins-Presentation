@@ -28,10 +28,6 @@
     @@@ Ruby
       class FlyingBase
 
-        def can_fly?
-          true
-        end
-
         def fly_to(destination)
           puts "I will fly to #{destination}"
         end

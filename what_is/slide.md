@@ -9,14 +9,16 @@
 !SLIDE 
 ## A mixin is a
 ## group of cohesive methods that are
-## 'mixed-in' with another class.
+## *mixed-in* with another class.
+
+!SLIDE 
+## A way of sharing common functionality without creating a sub-class
 
 !SLIDE bullets incremental
-
 # Inheritance
 ## is-a relationship
-* A mutant is a human
-* Typically a subclass
+* A mutant **is a** human
+* A mutant is a **subclass** of a human
 
 !SLIDE bullets incremental
 # Mixins

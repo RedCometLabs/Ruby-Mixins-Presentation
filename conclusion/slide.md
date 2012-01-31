@@ -1,5 +1,7 @@
 !SLIDE
+# Thanks!
 ## Any questions, comments or battle stories?
+### http://mixins.heroku.com/
 
 
 !SLIDE center

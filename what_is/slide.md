@@ -24,7 +24,7 @@
 # Mixins
 ## has a or uses a
 * Spiderman has a "spider-sense"
-* Seperation of concerns
+* Separation of concerns
 
 !SLIDE center
 # How do we do this?

@@ -6,7 +6,7 @@
 
 !SLIDE bullets incremental
 # When to use Mixins
-* Seperation of concerns
+* Separation of concerns
 * Object 'uses a' or 'has a'
 * Less tightly coupled code
 

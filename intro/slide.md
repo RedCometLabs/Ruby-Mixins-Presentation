@@ -18,7 +18,7 @@
 # Create flying ability
 ![fly](fly.jpg)
 !SLIDE center
-# Creating Deadly laser eyes
+# Create deadly laser eyes
 ![laser](laser.jpg)
 
 !SLIDE
